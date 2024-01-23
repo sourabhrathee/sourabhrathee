@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Computer Science graduate, currently pursuing a Master's degree in computer Science at York University. My professional journey has been deeply rooted in the fascinating world of deep learning, with a particular emphasis on Convolutional Neural Networks (ConvNets).
+I am a Computer Science graduate, currently pursuing a Master's degree in computer Science at York University. My professional journey has been deeply rooted in the fascinating world of deep learning and Data Analysis, with a particular emphasis on Convolutional Neural Networks (ConvNets).
 <!--
 **sourabhrathee/sourabhrathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
